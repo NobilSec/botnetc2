@@ -1,0 +1,39 @@
+{
+    "boot_sequence": [
+        {"text": "INITIALIZING NEURAL INTERFACE...", "delay": 0.3},
+        {"text": "BYPASSING SECURITY PROTOCOLS... [###     ]", "delay": 0.25},
+        {"text": "BYPASSING SECURITY PROTOCOLS... [######  ]", "delay": 0.25}, 
+        {"text": "BYPASSING SECURITY PROTOCOLS... [########]", "delay": 0.25},
+        {"text": "ACCESSING MAINFRAME...", "delay": 0.4},
+        {"text": "INJECTING CYBER PAYLOAD...", "delay": 0.3}
+    ],
+    "system_info": {
+        "system": "QUANTUM INFILTRATION MATRIX",
+        "version": "X.0",
+        "encryption": "NEURAL-CRYPT"
+    },
+    "styling": {
+        "title": "CYBER WARFARE TERMINAL",
+        "animations": {
+            "battle": {
+                "speed": 0.1,
+                "repeat": 2
+            }
+        }
+    },
+    "battle_sequence": [
+        {"frame": "BREAKING FIREWALL DEFENSES"},
+        {"frame": "DEPLOYING GHOST PROTOCOLS"},
+        {"frame": "EXECUTING NEURAL OVERRIDE"}
+    ],
+    "victory_sequence": [
+        "SYSTEM COMPROMISED",
+        "MAXIMUM ACCESS ACHIEVED",
+        "WELCOME TO THE MATRIX"
+    ],
+    "defeat_sequence": [
+        "NEURAL LINK SEVERED",
+        "SYSTEM LOCKDOWN INITIATED",
+        "CONNECTION TERMINATED"
+    ]
+}
